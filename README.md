@@ -13,8 +13,18 @@
 
 - 🎓 Graduated from Yandex Practicum (web development)
 - 💼 Working as a Frontend developer
-- 📚 Currently deepening my JavaScript and TypeScript, step by step, every day
+- ⌨️ Writing JavaScript every single day
 - 🏋️ Outside of code: gym and board games
+
+## ⚡ Daily activity
+
+<!--ACTIVITY:START-->
+| 🔥 Current streak | 🏆 Longest streak (1 year) | 📆 Last 30 days | 🗓 Last year |
+|:---:|:---:|:---:|:---:|
+| **199 days** | **199 days** | **105** contributions | **346** contributions |
+
+<sub>Updated automatically on 2026-11-03</sub>
+<!--ACTIVITY:END-->
 
 ## 🛠 Tech stack
 

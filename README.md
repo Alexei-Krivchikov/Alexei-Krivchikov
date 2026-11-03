@@ -47,10 +47,3 @@
 | [**book-tracker-ui**](https://github.com/Alexei-Krivchikov/book-tracker-ui) · [live](https://book-tracker-ui.vercel.app) | Search books and build a personal library | Next.js, TypeScript, TanStack Query, Shadcn UI, FSD |
 | [**book-tracker-api**](https://github.com/Alexei-Krivchikov/book-tracker-api) | Backend API for books, users and libraries | NestJS, Prisma, PostgreSQL, JWT |
 | [**habits-tracker**](https://github.com/Alexei-Krivchikov/habits-tracker) | Habit tracking through CBT-style journaling | Next.js, TypeScript, Better Auth, Mantine |
-
-## 📈 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexei-Krivchikov&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexei-Krivchikov&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="160">
-</p>

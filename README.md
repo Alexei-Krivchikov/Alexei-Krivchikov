@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alexei 👋</h1>
 
 <p align="center">
-  Frontend developer from Sochi, Russia<br>
+  Frontend developer from Russia<br>
   Building clean, fast web apps with React and TypeScript
 </p>
 

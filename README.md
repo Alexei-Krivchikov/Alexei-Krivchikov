@@ -13,7 +13,7 @@
 
 - 🎓 Graduated from Yandex Practicum (web development)
 - 💼 Working as a Frontend developer
-- ⌨️ Writing JavaScript every single day
+- 🌱 Learning something new every day: new technologies, tools and ideas
 - 🏋️ Outside of code: gym and board games
 
 ## ⚡ Daily activity

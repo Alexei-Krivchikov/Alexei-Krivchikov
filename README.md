@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alexei 👋</h1>
 
 <p align="center">
-  Frontend developer from Russia<br>
+  Full Stack Developer<br>
   Building clean, fast web apps with React and TypeScript
 </p>
 

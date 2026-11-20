@@ -21,9 +21,9 @@
 <!--ACTIVITY:START-->
 | 🔥 Current streak | 🏆 Longest streak (1 year) | 📆 Last 30 days | 🗓 Last year |
 |:---:|:---:|:---:|:---:|
-| **215 days** | **215 days** | **104** contributions | **396** contributions |
+| **215 days** | **215 days** | **96** contributions | **396** contributions |
 
-<sub>Updated automatically on 2026-11-19</sub>
+<sub>Updated automatically on 2026-11-20</sub>
 <!--ACTIVITY:END-->
 
 ## 🛠 Tech stack
